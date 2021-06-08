@@ -1,0 +1,6 @@
+tinydb==4.3.0
+chart-studio==1.0.0
+plotly==4.5.0
+beautifultable==1.0.0
+ipython==7.16.1
+rdkit-pypi
